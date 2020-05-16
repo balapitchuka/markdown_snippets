@@ -13,7 +13,7 @@
      * Sub bullets
 </details>
 ```
-### Output Here
+### Output Here:
 <details>
   <summary>Click to expand!</summary>
   
