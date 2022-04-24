@@ -1,3 +1,4 @@
+```
 # Defines all Languages known to GitHub.
 #
 # type              - Either data, programming, markup, prose, or nil
@@ -26,6 +27,7 @@
 # test change in `test/test_blob.rb`.
 #
 # Please keep this list alphabetized. Capitalization comes before lower case.
+```
 
 ABAP:
   type: programming
